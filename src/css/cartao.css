@@ -38,7 +38,6 @@
 }
 
 .cartao-pokemon .cartao-informacoes {
-    background-color: orange;
     display: flex;
     justify-content: space-between;
     background-color: #FFFFFF;
